@@ -11,7 +11,7 @@ const Home = () => {
                         This is Tahsan Shakil.I have experience
                         in web dev skill since 2021. And I've good at HTML5, CSS3, BOOTSTRAP,
                         TAILWIND,DEISY UI, JAVASCRIPT, ES6, REACT js, REDUX, SASS, NODE
-                        JS,EXPRESS JS,FIREBASE,JWT, JSON, HEROKU, STRIPE, MONGODB, POSTMAN.
+                        JS,EXPRESS JS,FIREBASE, JWT, JSON, HEROKU, STRIPE, MONGODB, POSTMAN.
                     </p>
                     <div>
                         <button className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer hover:scale-105 duration-200'>Portfolio
