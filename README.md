@@ -1,5 +1,7 @@
 # Welcome to my portfolio
  
+ to see live the project(https://main--tahsan-portfolio.netlify.app/)
+
 ### use in this project
 ##### 01.react js
 ##### 02.tailwind css
@@ -9,7 +11,6 @@
 ##### 01.react js
 ##### 06.react-scroll 
  
- [to see live(https://main--tahsan-portfolio.netlify.app/)
 
 
 
